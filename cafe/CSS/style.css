@@ -1,5 +1,4 @@
 @charset "UTF-8";
-
 /* すべてのWebページに適用される */
 html {
   font-family: sans-serif;
@@ -48,7 +47,7 @@ img{
   height: auto;
 }
 
-/* すべてのページに適用　-　ヘッダー　- */
+/* すべてのページに適用 -ヘッダー */
 .logo{
   margin: 50px 0 40px 0;
   line-height: 0;
